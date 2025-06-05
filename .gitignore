@@ -203,4 +203,4 @@ cython_debug/
 .vscode
 
 /model/
-.csv
+/src/dataset/mnist/*.csv
