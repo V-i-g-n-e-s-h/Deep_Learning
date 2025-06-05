@@ -6,3 +6,6 @@
 
         julia initialization.jl
 
+## Dataset:
+
+Unzip the zip files in the dataset folder.
